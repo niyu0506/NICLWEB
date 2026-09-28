@@ -1,5 +1,5 @@
 ---
-title: "Garcipan Tablet"
+title: "Niyogarcinia Tablet"
 category: "tablets"
 tagline: "Slimming Aid"
 image: "img/products/garcipan-tab.jpg"
@@ -25,7 +25,7 @@ caution: "Pregnant or lactating women should use herbal products only under the 
 
 ## About this formulation
 
-Garcipan Tablet is a single-herb preparation built around the dried fruit rind of *Garcinia
+Niyogarcinia Tablet is a single-herb preparation built around the dried fruit rind of *Garcinia
 gummi-gutta*, known in ayurveda as Vrikshamla and in the trade as Garcinia cambogia. Each
 coated tablet carries 1000 mg of extract standardised to 60 per cent hydroxycitric acid (HCA),
 the constituent the formulation is designed around. It is intended as a supporting product
@@ -52,7 +52,7 @@ protects the core from moisture during storage and transport in Indian condition
 
 ## Manufacturing and supply
 
-Garcipan Tablet is manufactured at our GMP-certified unit and is available for third-party and
+Niyogarcinia Tablet is manufactured at our GMP-certified unit and is available for third-party and
 private-label manufacturing. HCA percentage, tablet weight, blister or bottle packing, pack
 sizes and label artwork can be adjusted to your specification, and we are able to work from
 your own formulation sheet where you have one. Certificates of analysis covering identity,
