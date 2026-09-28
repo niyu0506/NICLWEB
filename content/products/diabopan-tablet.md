@@ -1,5 +1,5 @@
 ---
-title: "Diabopan Tablet"
+title: "Diabeto Tablet"
 category: "tablets"
 tagline: "Diabetes Management"
 image: "img/products/diabopan-tab.jpg"
@@ -51,7 +51,7 @@ caution: "Pregnant or lactating women should use herbal products only under the 
 
 In ayurveda, diabetes is understood as a *kapha*-type metabolic disorder in which diminished
 *agni* (digestive fire) leads to a tendency toward high blood sugar. Classical texts classify
-twenty-four forms of the condition under *Prameha*. Diabopan Tablet brings together sixteen
+twenty-four forms of the condition under *Prameha*. Diabeto Tablet brings together sixteen
 herbs traditionally used in that context, standardised and combined in a single coated tablet.
 
 ## The herbs, and why they are here
@@ -91,6 +91,6 @@ Unani and Siddha systems in India, Bangladesh and Sri Lanka.
 
 ## Manufacturing and supply
 
-Diabopan Tablet is manufactured at our GMP-certified unit and is available for third-party
+Diabeto Tablet is manufactured at our GMP-certified unit and is available for third-party
 and private-label manufacturing. Pack sizes, blister or bottle packing, and label artwork can
 be tailored to your requirement. Certificates of analysis are supplied with each consignment.
