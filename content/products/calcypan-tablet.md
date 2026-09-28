@@ -46,7 +46,7 @@ caution: "Pregnant or lactating women should use herbal products only under the 
 Calcium is needed for the normal functioning of nerves, cells, muscle and bone. When the diet
 does not supply enough of it, the body draws on the skeleton to keep blood calcium steady, and
 bone density falls over time. Ayurvedic literature describes a group of plant and mineral
-ingredients used for centuries to support *asthi dhatu*, the bone tissue. Calcypan Tablet brings
+ingredients used for centuries to support *asthi dhatu*, the bone tissue. Calcium Tablet brings
 ten of them together in a single 550 mg coated tablet.
 
 ## The herbs, and why they are here
