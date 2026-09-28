@@ -1,5 +1,5 @@
 ---
-title: "Dilopan Tablet"
+title: "Niyocard Tablet"
 category: "tablets"
 tagline: "Cardiac Support"
 image: "img/products/dilopan-tablet.jpg"
@@ -38,7 +38,7 @@ caution: "Pregnant or lactating women should use herbal products only under the 
 Ayurveda regards the health of the heart as inseparable from the state of the digestive tract and
 the quality of the blood. Residue left by incomplete digestion is understood to travel with the
 blood and to thicken it, so classical cardiac formulations almost always pair herbs that clear
-the gut with herbs that work on lipids and circulation. Dilopan Tablet follows that pattern. It
+the gut with herbs that work on lipids and circulation. Niyocard Tablet follows that pattern. It
 is a 500 mg tablet in which a little over half the herbal weight is given to eliminative and
 blood-cleansing herbs, with Guggul and Haridra added for lipid metabolism.
 
@@ -71,6 +71,6 @@ quantity for its astringent, tissue-toning action.
 
 ## Manufacturing and supply
 
-Dilopan Tablet is manufactured at our GMP-certified unit and is available for third-party and
+Niyocard Tablet is manufactured at our GMP-certified unit and is available for third-party and
 private-label manufacturing. Pack sizes, blister or bottle packing, and label artwork can be
 tailored to your requirement. Certificates of analysis are supplied with each consignment.
