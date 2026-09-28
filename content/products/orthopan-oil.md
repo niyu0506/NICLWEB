@@ -1,5 +1,5 @@
 ---
-title: "Orthopan Oil"
+title: "Orthoniyo Oil"
 category: "oils"
 tagline: "Joint and Muscle Care"
 image: "img/products/orthopan-oil.jpg"
@@ -41,7 +41,7 @@ caution: "Pregnant or lactating women should use herbal products only under the 
 
 ## About this formulation
 
-Orthopan Oil is an external application prepared by the classical *sneha paka* method, in
+Orthoniyo Oil is an external application prepared by the classical *sneha paka* method, in
 which herbs are processed into a sesame oil base over controlled heat so that their
 fat-soluble constituents carry into the oil. The finished preparation combines that
 herb-processed base with two classical ayurvedic oils, Mahanarayan and Mahavishgarbha, and a
@@ -74,6 +74,6 @@ the concern.
 
 ## Manufacturing and supply
 
-Orthopan Oil is manufactured at our GMP-certified unit and is available for third-party and
+Orthoniyo Oil is manufactured at our GMP-certified unit and is available for third-party and
 private-label manufacturing. Bottle sizes, closure type, carton and label artwork can be
 tailored to your requirement. Certificates of analysis are supplied with each consignment.
