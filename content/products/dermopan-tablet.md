@@ -1,5 +1,5 @@
 ---
-title: "Dermopan Tablet"
+title: "Dermato Tablet"
 category: "tablets"
 tagline: "Skin Care"
 image: "img/products/dermopan-tablet.jpg"
@@ -44,7 +44,7 @@ In ayurveda, skin complaints of the dermatitis type are read as a *pitta* proble
 digestive origin. An unsuitable diet and irregular routine disturb digestion, *pitta* — the fire
 principle — is aggravated, and it expresses itself through the skin as heat, while toxins settle
 into the deeper tissues. Management therefore works from the inside out, on the blood and the
-gut, rather than on the skin alone. Dermopan Tablet is a 500 mg film-coated tablet that
+gut, rather than on the skin alone. Dermato Tablet is a 500 mg film-coated tablet that
 combines bitter blood-purifying herbs with two classical mineral preparations along those
 lines.
 
@@ -84,6 +84,6 @@ acidity and calcium deficiency.
 
 ## Manufacturing and supply
 
-Dermopan Tablet is manufactured at our GMP-certified unit and is available for third-party and
+Dermato Tablet is manufactured at our GMP-certified unit and is available for third-party and
 private-label manufacturing. Pack sizes, blister or bottle packing, and label artwork can be
 tailored to your requirement. Certificates of analysis are supplied with each consignment.
