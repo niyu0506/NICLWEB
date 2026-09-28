@@ -1,5 +1,5 @@
 ---
-title: "Livo Tablet"
+title: "Nivoliv Tablet"
 category: "tablets"
 tagline: "Liver Care"
 image: "img/products/livo-tablet.jpg"
@@ -44,7 +44,7 @@ caution: "Pregnant or lactating women should use herbal products only under the 
 
 The liver carries much of the body's routine work of processing what is eaten, drunk and
 absorbed, and ayurvedic practice has a long-standing group of bitter and cooling drugs used to
-support it. Livo Tablet gathers nine of them, including one classical *bhasma*, into a single
+support it. Nivoliv Tablet gathers nine of them, including one classical *bhasma*, into a single
 425 mg coated tablet. The formulation is weighted toward Arjuna bark and Kalmegh, with the
 remaining herbs supporting digestion, appetite and elimination.
 
@@ -82,7 +82,7 @@ is accompanied by anaemia, and traditionally described as helping normalise bili
 
 ## Manufacturing and supply
 
-Livo Tablet is manufactured at our GMP-certified unit and is available for third-party and
+Nivoliv Tablet is manufactured at our GMP-certified unit and is available for third-party and
 private-label manufacturing. Tablet weight, coating, blister or bottle packing, pack sizes and
 label artwork can be tailored to your requirement. Certificates of analysis are supplied with
 each consignment.
