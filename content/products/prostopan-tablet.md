@@ -1,5 +1,5 @@
 ---
-title: "Prostopan Tablet"
+title: "Prostoniyo Tablet"
 category: "tablets"
 tagline: "Prostate Care"
 image: "img/products/prostopan-tablet.jpg"
@@ -37,7 +37,7 @@ caution: "Pregnant or lactating women should use herbal products only under the 
 
 ## About this formulation
 
-Prostopan Tablet is a men's urinary and prostate formulation in which the herbs are processed
+Prostoniyo Tablet is a men's urinary and prostate formulation in which the herbs are processed
 in *Kulath kwath* — a decoction of horse gram — before tabletting, following the classical
 ayurvedic practice of using a herbal decoction as the processing medium rather than plain
 water. Pashanbhed accounts for 200 mg of the 550 mg tablet, with Gokshur, Varun and Punarnava
@@ -75,6 +75,6 @@ flushing out of urinary deposits.
 
 ## Manufacturing and supply
 
-Prostopan Tablet is manufactured at our GMP-certified unit and is available for third-party and
+Prostoniyo Tablet is manufactured at our GMP-certified unit and is available for third-party and
 private-label manufacturing. Pack sizes, blister or bottle packing and label artwork can be
 tailored to your market. Certificates of analysis are supplied with each consignment.
