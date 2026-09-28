@@ -113,17 +113,17 @@ enableEmoji = true
 
   # Numbers shown in the stats strip. Non-numeric values are displayed as-is.
   [[params.stats]]
-    value = "ETHICAL BUSINESS PRACTICES"
-    label = ""
+    value = "Focused"
+    label = "Highest & Finest Quality"
   [[params.stats]]
-    value = "GMP-GOOD MANUFACTURING PRACTICES"
-    label = ""
+    value = "100%"
+    label = "ACCOUNTABILITY & OWNERSHIP"
   [[params.stats]]
-    value = "SYSTEM AND PROCESS DRIVEN"
-    label = ""
+    value = "QA/QC"
+    label = "SYSTEM AND PROCESS DRIVEN"
   [[params.stats]]
-    value = "ACCOUNTABILITY & OWNERSHIP"
-    label = ""
+    value = "Factory Facility"
+    label = "GMP-GOOD MANUFACTURING PRACTICES"
 
 # ── Business divisions ─────────────────────────────────────────────────────
 # Each product category below belongs to one of these.
