@@ -1,5 +1,5 @@
 ---
-title: "Silencer Tablet"
+title: "Stressgo Tablet"
 category: "tablets"
 tagline: "Stress Management"
 image: "img/products/silencer-tab.jpg"
@@ -42,7 +42,7 @@ the mind: *prana vata*, which governs the brain and sensory perception, *tarpaka
 governs the cerebro-spinal fluid, and *sadhaka pitta*, which governs the emotions and their
 effect on the heart.
 
-Silencer Tablet combines six herbs traditionally used across those three areas — adaptogens,
+Stressgo Tablet combines six herbs traditionally used across those three areas — adaptogens,
 nervine tonics and one classical sedative herb — in a single coated tablet intended for use at
 bedtime.
 
@@ -70,6 +70,6 @@ included in a small quantity to support the settling action of the formulation.
 
 ## Manufacturing and supply
 
-Silencer Tablet is manufactured at our GMP-certified unit and is available for third-party and
+Stressgo Tablet is manufactured at our GMP-certified unit and is available for third-party and
 private-label manufacturing. Blister or bottle packing, pack sizes and label artwork can be
 tailored to your requirement. Certificates of analysis are supplied with each consignment.
