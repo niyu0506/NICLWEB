@@ -1,5 +1,5 @@
 ---
-title: "Pilopan Tablet"
+title: "Pilo Tablet"
 category: "tablets"
 tagline: "Piles Support"
 image: "img/products/pilopan-tablet.jpg"
@@ -38,7 +38,7 @@ caution: "Pregnant or lactating women should use herbal products only under the 
 In ayurveda, piles are described as *Arsha* — a condition in which vitiated *apana vata* and a
 weakened digestive fire together produce hard stool, straining and swelling of the veins around
 the anal canal. Management is therefore approached from two directions at once: keeping the
-bowel soft and regular, and calming the local tissue. Pilopan Tablet brings seven traditional
+bowel soft and regular, and calming the local tissue. Pilo Tablet brings seven traditional
 ingredients together on that pattern, combining gentle bowel-regulating herbs, bitter digestives
 and cooling astringents in a single 500 mg tablet.
 
@@ -69,7 +69,7 @@ support normal blood flow and tone in the affected tissue.
 
 ## Manufacturing and supply
 
-Pilopan Tablet is manufactured at our GMP-certified unit and is available for third-party and
+Pilo Tablet is manufactured at our GMP-certified unit and is available for third-party and
 private-label manufacturing. Blister or bottle packing, pack sizes and label artwork can be
 matched to your requirement. Certificates of analysis are supplied with each consignment, and
 our technical team can share product specifications on request.
