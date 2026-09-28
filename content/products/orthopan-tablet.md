@@ -1,5 +1,5 @@
 ---
-title: "Orthopan Tablet"
+title: "Orthoniyo Tablet"
 category: "tablets"
 tagline: "Joints & Muscles Care"
 image: "img/products/orthopan-tab.jpg"
@@ -39,7 +39,7 @@ caution: "Pregnant or lactating women should use herbal products only under the 
 
 ## About this formulation
 
-Orthopan Tablet brings together nine herbs that ayurveda has traditionally used where joints
+Orthoniyo Tablet brings together nine herbs that ayurveda has traditionally used where joints
 and muscles are concerned. The three lead ingredients — Rasna, Shallaki and Guggul-family
 resins — are the herbs most often named in classical texts for *sandhivata*, the vata-related
 condition of the joints. Ashwagandha and Bala are included for musculoskeletal strength, and
@@ -78,6 +78,6 @@ tissues, and traditionally applied where joints are swollen or painful.
 
 ## Manufacturing and supply
 
-Orthopan Tablet is manufactured at our GMP-certified unit and is available for third-party and
+Orthoniyo Tablet is manufactured at our GMP-certified unit and is available for third-party and
 private-label manufacturing. Blister or bottle packing, pack sizes and label artwork can be
 tailored to your requirement. Certificates of analysis are supplied with each consignment.
