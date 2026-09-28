@@ -1,5 +1,5 @@
 ---
-title: "Immunopan Tablet"
+title: "Immune Tablet"
 category: "tablets"
 tagline: "Immunity Booster"
 image: "img/products/immunopan-tab.jpg"
@@ -43,7 +43,7 @@ The immune system is the body's defence against infectious organisms and other i
 responding through a sequence of steps that identify and clear what does not belong. Cultures
 across the world have used plant material to nourish that system, and a number of the herbs
 used in India for this purpose have since been examined for their pharmacological properties.
-Immunopan Tablet brings eight of them together in a single 500 mg coated tablet, with Shigru
+Immune Tablet brings eight of them together in a single 500 mg coated tablet, with Shigru
 carrying the largest share of the formulation.
 
 ## The herbs, and why they are here
@@ -78,7 +78,7 @@ contributes further natural vitamin C.
 
 ## Manufacturing and supply
 
-Immunopan Tablet is manufactured at our GMP-certified unit and is available for third-party
+Immune Tablet is manufactured at our GMP-certified unit and is available for third-party
 and private-label manufacturing. Tablet weight, blister or bottle packing, pack sizes and
 label artwork can be tailored to your requirement. Certificates of analysis are supplied with
 each consignment.
