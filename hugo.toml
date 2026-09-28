@@ -113,17 +113,17 @@ enableEmoji = true
 
   # Numbers shown in the stats strip. Non-numeric values are displayed as-is.
   [[params.stats]]
-    value = "FSSAI"
-    label = "Licensed & registered"
+    value = "ETHICAL BUSINESS PRACTICES"
+    label = ""
   [[params.stats]]
-    value = "100%"
-    label = "Non-GMO sourcing"
+    value = "GMP-GOOD MANUFACTURING PRACTICES"
+    label = ""
   [[params.stats]]
-    value = "COA"
-    label = "With every consignment"
+    value = "SYSTEM AND PROCESS DRIVEN"
+    label = ""
   [[params.stats]]
-    value = "1 kg+"
-    label = "Sample to bulk quantities"
+    value = "ACCOUNTABILITY & OWNERSHIP"
+    label = ""
 
 # ── Business divisions ─────────────────────────────────────────────────────
 # Each product category below belongs to one of these.
