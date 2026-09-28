@@ -86,6 +86,6 @@ tissue-toning action.
 
 ## Manufacturing and supply
 
-Calcypan Tablet is manufactured at our GMP-certified unit and is available for third-party and
+Calcium Tablet is manufactured at our GMP-certified unit and is available for third-party and
 private-label manufacturing. Pack sizes, blister or bottle packing, and label artwork can be
 tailored to your requirement. Certificates of analysis are supplied with each consignment.
