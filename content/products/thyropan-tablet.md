@@ -1,5 +1,5 @@
 ---
-title: "Thyropan Tablet"
+title: "Thyroniyo Tablet"
 category: "tablets"
 tagline: "Thyroid Management"
 image: "img/products/thyropan-tab.jpg"
@@ -43,7 +43,7 @@ influences the rate of metabolism, protein synthesis and the body's sensitivity 
 hormones. When output drifts above or below its normal range, the effects are felt broadly —
 unexplained gain or loss of weight, lethargy, changes in pulse rate and unsettled mood.
 
-Thyropan Tablet is built on the ayurvedic reading of this as largely a *kapha* disturbance. It
+Thyroniyo Tablet is built on the ayurvedic reading of this as largely a *kapha* disturbance. It
 combines single herbs with two classical *guggul* preparations in a 475 mg coated tablet, and is
 intended as nutritional support alongside, not in place of, treatment prescribed by a physician.
 
@@ -75,6 +75,6 @@ normal cholesterol levels and healthy weight.
 
 ## Manufacturing and supply
 
-Thyropan Tablet is manufactured at our GMP-certified unit and is available for third-party and
+Thyroniyo Tablet is manufactured at our GMP-certified unit and is available for third-party and
 private-label manufacturing. Blister or bottle packing, pack sizes and label artwork can be
 tailored to your requirement. Certificates of analysis are supplied with each consignment.
