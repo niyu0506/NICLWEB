@@ -1,5 +1,5 @@
 ---
-title: "Calcypan Tablet"
+title: "Calcium Tablet"
 category: "tablets"
 tagline: "Natural Calcium Supplement"
 image: "img/products/calcypan-tablet.jpg"
