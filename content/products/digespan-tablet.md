@@ -1,5 +1,5 @@
 ---
-title: "Digespan Tablet"
+title: "Niyodigest Tablet"
 category: "tablets"
 tagline: "Digestion Support"
 image: "img/products/digespan-tablet.jpg"
@@ -49,7 +49,7 @@ Ayurveda explains most digestive complaints through two ideas. The first is aggr
 *doshas* — *vata*, *pitta* and *kapha*. The second is *ama*, the residue left behind when food is
 not fully digested. Seasonal change, repetitive diet, dust and pollution all encourage *ama* to
 build up and adhere to the tissues, where it is understood to clog the *shrotas*, the channels
-through which nutrition and oxygen reach the tissues and waste leaves them. Digespan Tablet
+through which nutrition and oxygen reach the tissues and waste leaves them. Niyodigest Tablet
 combines twelve classical digestives and mild eliminatives in a 600 mg tablet intended to keep
 that residue moving rather than settling.
 
@@ -92,6 +92,6 @@ classical antispasmodic resin, completing the formulation.
 
 ## Manufacturing and supply
 
-Digespan Tablet is manufactured at our GMP-certified unit and is available for third-party and
+Niyodigest Tablet is manufactured at our GMP-certified unit and is available for third-party and
 private-label manufacturing. Pack sizes, blister or bottle packing, and label artwork can be
 tailored to your requirement. Certificates of analysis are supplied with each consignment.
