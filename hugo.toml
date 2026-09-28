@@ -178,25 +178,6 @@ enableEmoji = true
   name     = "Tablets"
   icon     = "package"
   blurb    = "Coated and uncoated ayurvedic formulation tablets."
-[[params.categories]]
-  key      = "syrups"
-  division = "formulations"
-  name     = "Syrups"
-  icon     = "flask"
-  blurb    = "Ayurvedic and herbal syrups, filled and labelled under your own brand."
-[[params.categories]]
-  key      = "oils"
-  division = "formulations"
-  name     = "Oils"
-  icon     = "leaf"
-  blurb    = "Ayurvedic massage and hair oils, cold-processed and filtered."
-[[params.categories]]
-  key      = "other"
-  division = "formulations"
-  name     = "Churna & Powders"
-  short    = "Churna"
-  icon     = "sparkles"
-  blurb    = "Classical churna preparations and blended herbal powders."
 
 [outputs]
   home = ["HTML", "RSS", "SITEMAP"]
