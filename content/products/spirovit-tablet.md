@@ -1,5 +1,5 @@
 ---
-title: "Spirovit Tablet"
+title: "Spironiyo Tablet"
 category: "tablets"
 tagline: "Vitamin Support"
 image: "img/products/spirovit-tab.jpg"
@@ -26,7 +26,7 @@ caution: "Pregnant or lactating women should use herbal products only under the 
 
 ## About this formulation
 
-Spirovit Tablet is a single-ingredient product. Each coated tablet carries 500 mg of spirulina
+Spironiyo Tablet is a single-ingredient product. Each coated tablet carries 500 mg of spirulina
 powder, with excipients and a hydroxypropyl methylcellulose coating making up the rest of the
 tablet. There is no herbal blend to balance here — the formulation exists to deliver a
 meaningful daily quantity of spirulina in a form that is stable, easy to dose and simple to
@@ -57,7 +57,7 @@ a nutritional supplement taken alongside, not in place of, a varied diet.
 
 ## Manufacturing and supply
 
-Spirovit Tablet is manufactured at our GMP-certified unit and is available for third-party and
+Spironiyo Tablet is manufactured at our GMP-certified unit and is available for third-party and
 private-label manufacturing. Blister or bottle packing, pack sizes and label artwork can be
 matched to your requirement. Certificates of analysis, including heavy-metal and microbiological
 results for each spirulina lot, are supplied with every consignment.
