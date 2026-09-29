@@ -1849,8 +1849,9 @@ body.nav-open { overflow: hidden; }
 .hero__video {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: contain;          /* changed from cover */
   object-position: center;
+  background: #052120;          /* dark background for empty sides */
 }
 
 .hero__overlay {
