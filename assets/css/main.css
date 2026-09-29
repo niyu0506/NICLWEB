@@ -315,7 +315,7 @@ p { text-wrap: pretty; }
 
 .site-header {
   position: sticky; top: 0; z-index: 100;
-  background: rgba(255, 255, 255, 0.86);
+  background: #40E0D0;
   backdrop-filter: saturate(1.6) blur(14px);
   -webkit-backdrop-filter: saturate(1.6) blur(14px);
   border-bottom: 1px solid transparent;
@@ -325,7 +325,7 @@ p { text-wrap: pretty; }
 .site-header.is-stuck {
   box-shadow: 0 6px 28px -14px rgba(7, 59, 41, 0.28);
   border-bottom-color: var(--ink-100);
-  background: rgba(255, 255, 255, 0.95);
+  background: background: #40E0D0;
 }
 .site-header__inner {
   display: flex; align-items: center; justify-content: space-between;
