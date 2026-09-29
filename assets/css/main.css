@@ -1891,12 +1891,13 @@ body.nav-open { overflow: hidden; }
 /* Mobile adjustments for video hero */
 @media (max-width: 768px) {
   .hero--video {
-    min-height: 70vh;          /* slightly shorter on mobile */
+    min-height: 70vh;
   }
 
   .hero__video {
-    object-fit: cover;         /* better fill on mobile */
+    object-fit: contain;        /* shows full video, no crop */
     object-position: center;
+    background: #052120;        /* dark fill on empty sides */
   }
 
   .hero--video .hero__copy {
@@ -1905,7 +1906,7 @@ body.nav-open { overflow: hidden; }
   }
 
   .hero--video h1 {
-    font-size: 1.8rem;         /* prevent text from becoming too large */
+    font-size: 1.8rem;
   }
 
   .hero--video .lede {
