@@ -1887,3 +1887,28 @@ body.nav-open { overflow: hidden; }
 .hero--video .hero__trust-item {
   color: rgba(255, 255, 255, 0.9);
 }
+
+/* Mobile adjustments for video hero */
+@media (max-width: 768px) {
+  .hero--video {
+    min-height: 70vh;          /* slightly shorter on mobile */
+  }
+
+  .hero__video {
+    object-fit: cover;         /* better fill on mobile */
+    object-position: center;
+  }
+
+  .hero--video .hero__copy {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+  }
+
+  .hero--video h1 {
+    font-size: 1.8rem;         /* prevent text from becoming too large */
+  }
+
+  .hero--video .lede {
+    font-size: 1rem;
+  }
+}
