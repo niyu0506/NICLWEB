@@ -7,7 +7,14 @@
 <!-- ═══ HERO ═══ -->
 {{- /* Deliberately flat: no floating pack shots, no badge stickers. Just the
        proposition, the two calls to action, and the three things buyers ask. */ -}}
-<section class="hero hero--plain">
+<section class="hero hero--video">
+  <div class="hero__video-wrap" aria-hidden="true">
+    <video class="hero__video" autoplay muted loop playsinline poster="{{ "img/site/facilityold.jpg" | relURL }}">
+      <source src="{{ "video/hero.mp4" | relURL }}" type="video/mp4">
+    </video>
+    <div class="hero__overlay"></div>
+  </div>
+
   <div class="container hero__inner">
     <div class="hero__copy">
       <span class="eyebrow" data-reveal>We cater two segments of Nutraceutical Industry - Pharma-Nutra Ingredients & Finished Dosage Formulations </span>
@@ -20,8 +27,6 @@
         
         Niyati Chemlabs has two dedicated manufacturing plants for manufacturing end-formulation 
         also known as FDF- Finished Dosage Formulation.
-             
-        
       </p>
       <div class="hero__cta" data-reveal data-reveal-delay="220">
         <a class="btn btn--lg" href="{{ "products/" | relURL }}">
