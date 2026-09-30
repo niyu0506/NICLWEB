@@ -27,12 +27,12 @@ capabilities:
 
 ## Who we are
 
-- Urvish Gosalia, a first-generation founder and director, started his business journey from zero and is steadily building NIYATI CHEMLABS from zero to one and one to hundred and beyond
+- Urvish Gosalia, a first-generation founder and director, started his business journey from zero and is steadily building NIYATI CHEMLABS from zero to one and one to hundred and beyond.
 - He began his journey in year 2015 as a Pharma-Nutra Ingredients freelancer, gaining hands-on experience across the industry. 
-- After working in multiple job roles at Pharmaceutical, Nutraceutical, Chemical, and complex pharmaceutical intermediates (KSM) companies for nearly 8 years, he acquired the knowledge and expertise needed to launch his own venture. 
-- In 2023, he transformed this experience into a focused NUTRA-PHARMA raw material contract manufacturing and trading, officially commencing business operations in July 2023 under NIYATI CHEMLABS. 
-- Today, NIYATI CHEMLABS is recognized as a market leader in Cold Water Soluble Vitamins under the dynamic stewardship of Mr. Urvish Gosalia.  
-- We specialize in supplying high-quality Cold Water Soluble Vitamins and related ingredients to the pharmaceutical and nutraceutical industries. 
-- Built on transparency, dedication, and deep industry knowledge, we continue to grow with a clear vision — to become a world-class, innovation-driven contract manufacturer, distributor and supplier in this space.
-
+- After nearly eight years in multiple roles across pharmaceutical, nutraceutical, chemical, and complex pharmaceutical intermediates (KSM) companies, he gained the knowledge and expertise required to launch      his own venture. 
+- In 2023, he channeled this experience into a focused Nutra-Pharma raw material contract manufacturing and trading business, officially commencing operations in July 2023 under the name NIYATI CHEMLABS. 
+- Today, under the dynamic stewardship of Mr. Urvish Gosalia, NIYATI CHEMLABS is recognized as a market leader in Cold Water Soluble Vitamins.  
+- We specialize in supplying high-quality Cold Water Soluble Vitamins and related ingredients to the pharmaceutical and nutraceutical industries.
+- In 2025, we partnered with a finished dosage formulations manufacturer to export superior-quality nutraceutical medicines, enabling NIYATI CHEMLABS to expand into global markets. 
+- Built on transparency, dedication, and deep industry knowledge, we continue to grow with a clear vision — to become a world-class, innovation-driven contract manufacturer & supplier in the Nutraceutical - Ingredients and Finished Dosage Formulation space.
 
