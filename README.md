@@ -1,7 +1,7 @@
-# Niyati Chemlabs — website
+# NICLWEB — website
 
-Static website for Niyati Chemlabs — a Mumbai-based supplier of active pharmaceutical
-ingredients, nutraceutical raw materials and finished herbal formulations. Built with
+Static website for NICLWEB — Inspired by Chemistry, Aspiring to build a World Class Nutraceutical 
+manufacturing business which involves both - Active Ingredients/Raw Material & Finish Dosage Formulation/FDF. Built with
 [Hugo](https://gohugo.io) and hosted free on GitHub Pages.
 
 ## Editing the site
