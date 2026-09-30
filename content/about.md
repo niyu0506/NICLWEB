@@ -1,7 +1,7 @@
 ---
 title: "About Us"
 heading: "Urvish Ashok Gosalia"
-intro: "A Mumbai-based supplier of active pharmaceutical ingredients, nutraceutical raw materials and finished herbal formulations, working to your specification rather than a fixed catalogue."
+intro: "Inspired by Chemistry, Aspiring to build a World Class Nutraceutical manufacturing business which involves both - Active Ingredients/Raw Material & Finish Dosage Formulation/FDF, we at NIYATI CHEMLABS prefer working to your specification rather than a fixed catalogue of ours which shows our commitment in understanding and providing excellent customer service ."
 layout: "about"
 weight: 20
 pillars:
