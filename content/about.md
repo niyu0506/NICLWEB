@@ -16,13 +16,12 @@ pillars:
     body: "Take a sample through your own process before committing to bulk. We would rather you proved the material works than took our word for it."
 
 capabilities:
-  - "Active pharmaceutical ingredients and intermediates"
-  - "Nutraceutical actives — protein isolates, extracts and functional ingredients"
-  - "Excipients, binders, fillers and processing aids"
+  - "Cold Water Soluble Vitamins"
+  - "Pharma & Nutraceutical Vitamins"
+  - "Active pharmaceutical ingredients"
+  - "Nutraceutical actives — Functional Ingredients"
   - "Herbal and botanical extracts"
-  - "Finished ayurvedic capsules and tablets"
-  - "Ayurvedic and herbal oils"
-  - "Churna, powders and classical preparations"
+  
 ---
 
 ## Who we are
