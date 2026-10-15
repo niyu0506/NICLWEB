@@ -16,6 +16,7 @@ pillars:
     body: "Take a sample through your own process before committing to bulk. We would rather you proved the material works than took our word for it."
 
 capabilities:
+
   - "Cold Water Soluble Vitamins"
   - "Pharma & Nutraceutical Vitamins"
   - "Active pharmaceutical ingredients"
