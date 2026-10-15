@@ -48,5 +48,17 @@ categories:
         packing: 100GM / 500GM / 01KG
         cas: 13422-55-4
         manufacturer: Vital / Supriya / Micro orgo / Ggc / Mahima / Balaji
-      
+      - name: Niacinamide IP/BP/USP
+        packing: 25KG
+        cas: 98-92-0
+        manufacturer: Lasons / Agro cool india
+        - name: Neotame USP
+        packing: 1KG
+        cas: 165450-17-9
+        manufacturer: Huasweet
+        - name: Stevia 97%
+        packing: 10KG
+        cas: 91722-21-3
+        manufacturer: Korea
+        
      
